@@ -3,8 +3,7 @@
 This is the code I used to follow along the [Reach rock-paper-scissors Tutorial](https://docs.reach.sh/tut/rps/#p_41).
 
 
-
-[![Reach Tutorial End Example](https://img.youtube.com/vi/idgd30s2Xy8/0.jpg)](https://www.youtube.com/watch?v=idgd30s2Xy8 "Reach Tutorial End Example")
+[![Reach Tutorial End Example](https://img.youtube.com/vi/kLTpYR5mp44/0.jpg)](https://www.youtube.com/watch?v=kLTpYR5mp44"Reach Tutorial End Example")
 
 
 
